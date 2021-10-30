@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stochasticOptimizer
+- 👀 I’m interested in Robotics, Control Theory and Math-Physics related stuff
+- 🌱 I’m currently learning modern programming languages, frameworks and tools in order to write better code for problems in abovementioned fields
+- 💞️ I’m looking to collaborate on all interesting problems
